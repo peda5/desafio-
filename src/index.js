@@ -1,5 +1,5 @@
 let heroi = "**{Zac}**"
-let xp = 5280
+let xp = 5000
 let nivel = ""
 if(xp<=1000){
 nivel = "**{Ferro}**"
